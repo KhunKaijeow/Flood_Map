@@ -1,0 +1,17 @@
+### Python ###
+.env
+venv/
+images/
+
+### credentials ###
+credentials.json
+token.json
+
+### DATA ###
+*.xlsx
+
+### IDE ###
+.idea/
+.vscode/
+__pycache__/
+
